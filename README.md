@@ -1,6 +1,6 @@
 # npmtest-node-twitterbot
 
-#### test coverage for  [node-twitterbot (v0.2.2)](http://www.projectspong.com/portfolio-type/nodebitlyapi/)  [![npm package](https://img.shields.io/npm/v/npmtest-node-twitterbot.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-twitterbot) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-twitterbot.svg)](https://travis-ci.org/npmtest/node-npmtest-node-twitterbot)
+#### basic test coverage for  [node-twitterbot (v0.2.2)](http://www.projectspong.com/portfolio-type/nodebitlyapi/)  [![npm package](https://img.shields.io/npm/v/npmtest-node-twitterbot.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-twitterbot) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-twitterbot.svg)](https://travis-ci.org/npmtest/node-npmtest-node-twitterbot)
 
 #### A NodeJS module for creating Twitter Bots
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-node-twitterbot/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-node-twitterbot/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-node-twitterbot/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-node-twitterbot/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-node-twitterbot/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-node-twitterbot/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-node-twitterbot/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-node-twitterbot/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-node-twitterbot/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-node-twitterbot/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-node-twitterbot/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-node-twitterbot/build/coverage.html/index.html)
 
@@ -83,7 +83,8 @@
         "type": "git",
         "url": "git+https://github.com/nkirbygr/node-twitterbot.git"
     },
-    "version": "0.2.2"
+    "version": "0.2.2",
+    "bin": {}
 }
 ```
 
